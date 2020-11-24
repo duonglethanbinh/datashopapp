@@ -3,17 +3,17 @@
     {
       "id": 1,
       "name": "Dụng cụ trượt tuyết",
-      "image": "https://www.flaticon.com/svg/static/icons/svg/1328/1328352.svg"
+      "image": "https://github.com/duonglethanbinh/ShopApp/blob/main/assets/skii.png"
     },
     {
       "id": 2,
       "name": "Quần áo trượt tuyết",
-      "image": "https://www.flaticon.com/svg/static/icons/svg/2346/2346838.svg"
+      "image": "https://github.com/duonglethanbinh/ShopApp/blob/main/assets/jacket.png"
     },
     {
       "id": 3,
       "name": "Kính mũ",
-      "image": "https://www.flaticon.com/svg/static/icons/svg/1336/1336308.svg"
+      "image": "https://github.com/duonglethanbinh/ShopApp/blob/main/assets/glasses.png"
     }
   ],
   "products": [
